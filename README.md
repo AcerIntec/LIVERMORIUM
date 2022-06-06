@@ -5,6 +5,6 @@
 - 📫 How to reach me Discord : https://discord.gg/9RpKaQN7JJ
 
 <!---
-Xuan/Xuan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AcerIntec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
